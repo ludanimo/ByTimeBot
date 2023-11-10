@@ -28,10 +28,19 @@
 - "Читать новости о технологиях".
 
 Следуйте инструкциям бота для выбора определенной категории блюда, фильма или чтения новостей.
+
 <details><summary>start</summary>
+  
   ![start](https://github.com/ludanimo/Mathshub/assets/121025508/a230c620-eab1-4ecf-8844-d87ec8e0ca2f) 
+  
 </details>
-![recipes](https://github.com/ludanimo/Mathshub/assets/121025508/a064b491-2bd8-41e8-93d6-1916d4e330e6)
+
+<details><summary>recipes</summary>
+  
+  ![recipes](https://github.com/ludanimo/Mathshub/assets/121025508/a064b491-2bd8-41e8-93d6-1916d4e330e6)
+
+</details>
+
 ![films](https://github.com/ludanimo/Mathshub/assets/121025508/6eebcde9-e123-4144-8b35-9f762af707e7)
 ![news](https://github.com/ludanimo/Mathshub/assets/121025508/c8ecccbb-6c23-4255-80ec-fea59eadb840)
 
