@@ -41,6 +41,15 @@
 
 </details>
 
-![films](https://github.com/ludanimo/Mathshub/assets/121025508/6eebcde9-e123-4144-8b35-9f762af707e7)
-![news](https://github.com/ludanimo/Mathshub/assets/121025508/c8ecccbb-6c23-4255-80ec-fea59eadb840)
+<details><summary>films</summary>
+  
+  ![films](https://github.com/ludanimo/Mathshub/assets/121025508/6eebcde9-e123-4144-8b35-9f762af707e7)
+
+</details>
+
+<details><summary>news</summary>
+  
+  ![news](https://github.com/ludanimo/Mathshub/assets/121025508/c8ecccbb-6c23-4255-80ec-fea59eadb840)
+
+</details>
 
